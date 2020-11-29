@@ -43,7 +43,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'English'
+project = u'Cambridge'
 copyright = u'2020, Jose Antonio Alvarez Cubero'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -175,7 +175,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'English'
+htmlhelp_basename = 'Cambridge'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -193,7 +193,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'english.tex', u'English',
+  ('index', 'cambridge.tex', u'Cambridge',
    u'Jose Antonio Alvarez Cubero', 'manual'),
 ]
 
@@ -223,7 +223,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'englishbook', u'English',
+    ('index', 'cambridgebook', u'Cambridge',
      [u'Jose Antonio Alvarez Cubero'], 1)
 ]
 
@@ -237,8 +237,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'englishbook', u'English',
-   u'English', 'Jose Antonio Alvarez Cubero', 'English',
+  ('index', 'cambridgebook', u'Cambridge',
+   u'Cambridge', 'Jose Antonio Alvarez Cubero', 'Cambridge',
    'Miscellaneous'),
 ]
 
