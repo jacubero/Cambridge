@@ -8,9 +8,11 @@ CAE
 
 `Speaking Paper <https://keepsmilingenglish.com/2017/01/speaking-cambridge-english-advanced-c1/>`_
 
-`Sample test <hhttps://www.youtube.com/watch?v=5nGESyDgmdw>`_
+`Sample test 1 <https://youtu.be/5nGESyDgmdw>`_
 
-`Sample test with examiner's comments <hhttps://www.youtube.com/watch?v=5nGESyDgmdw>`_
+`Sample test 1 with examiner's comments <`PDF <https://github.com/jacubero/Cambridge/blob/master/speaking/173976-cambridge-english-advanced-examiners-comments.pdf>`_>`_
+
+`Sample test 2 <https://youtu.be/qVRC3psIPU8>`_
 
 Part 1
 ------
