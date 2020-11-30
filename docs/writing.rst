@@ -11,3 +11,8 @@ CAE
 `conectores en inglés <https://idiomium.es/conectores-en-ingles-connectors/>`_
 
 `diferencias entre inglés formal e informal <https://idiomium.es/diferencias-entre-ingles-formal-e-informal/>`_
+
+
+
+*I got the gist of what she was saying.*
+Entend� el punto esencial de lo que ella estaba diciendo.

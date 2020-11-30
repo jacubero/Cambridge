@@ -11,4 +11,44 @@ CAE
 
 `Converse School of Languages <https://cisl.edu/cae-reading-and-use-of-english-part-2-tips-and-practice-tests/>`_
 
-`Gram√°tica <https://idiomium.es/gramatica-inglesa/>`_
+`Gram·tica <https://idiomium.es/gramatica-inglesa/>`_
+
+Part 1
+------
+
+This book gives advice on saving money.
+Here is some advice from experts.
+
+Whatís your opinion on the matter?
+Whatís your opinion of the new boss?
+
+Sheís one of the foremost experts on child psychology.
+The buildingís uppermost floors were engulfed with flames.
+Research forms the predominant part of my job.
+The director has really surpassed himself (= done better than he has done before) with this new film.
+
+I love the way she styled your hair.
+an egg-shaped building
+European politics is mostly shaped by events and anniversaries.
+
+Much of this meat will probably end up as dog food.
+
+I have to hold my nose when I jump into water.
+They walked along holding hands.
+Computers can hold huge amounts of information.
+He currently holds the position of technical manager
+
+Rosie suddenly grasped my hand.
+We must grasp every opportunity to strengthen economic ties with other countries.
+I think I managed to grasp the main points of the lecture.
+
+It was an interesting book, full of fascinating insights into human relationships.
+The realization was dawning that this was a major disaster.
+
+Please phone me back - it's a matter of some importance.
+
+This meeting will be the first encounter between the party leaders since the election
+Children presenting with acute respiratory infections were referred for a chest X-ray.
+Did he offer any explanation for his strange behaviour?
+
+Terry has been carrying a torch for Liz for years, but she seems not to notice.
