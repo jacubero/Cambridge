@@ -15,3 +15,5 @@ CAE
 `English Aula <https://www.englishaula.com/en/cambridge-english-test-exam-preparation/cambridge-english-advanced-c1-advanced/1/>`_
 
 `Tips <http://benteachesenglish.com/simple-strategies-for-english-exams/cae-tips/>`_
+
+`Free digital resources to help you teach online <https://www.cambridgeenglish.org/teaching-english/resources-for-teachers/>`_
